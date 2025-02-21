@@ -1,4 +1,4 @@
-# Hi, I'm Martin Andrityák
+# Hi, I'm Martin Andristyák
 
 ### Full-Stack Developer | Indie Game Developer | UI/UX Enthusiast  
 
