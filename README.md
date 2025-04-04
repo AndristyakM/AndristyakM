@@ -13,7 +13,8 @@ In the past, I worked on **UI/UX design**, which gave me a strong focus on creat
 ---
 
 ## Tech Stack  
-**Frontend:** Vue.js, jQuery, JavaScript, SCSS, Tailwind CSS, CSS3, HTML5  
+**Main** React.js, C# (.NET)
+**Frontend:** React.js, Vue.js, jQuery, JavaScript, SCSS, Tailwind CSS, CSS3, HTML5  
 **Backend:** PHP (Native, Laravel), C# (.NET)  
 **Databases:** MySQL, PostgreSQL  
 **Other:** Firebase JWT (Authentication), Git, Unity (C#)  
